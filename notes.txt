@@ -1,1 +1,32 @@
 -*- mode: outline; -*-
+* reasons for not moving forward
+  - 'subversion is good enough' : michael (joe's brother), said when asked the
+  question... but he just upgraded from ClearCase to SVN
+
+  you might be like me: want to know (really know) the majority of the tool's
+  functionality before switching over full time.  git is a much more complex
+  tool, and that's a great excuse for not continuing to sit on it
+
+  case in point for the above: so many wrappers that there are two
+  classifications: porcelain and plumbing (only need to use a subset of the
+  porcelain to really get moving, though)
+
+  ?
+
+* points to highlight
+  a system whose very nature encourages you to change how you develop:
+  - branching facility, brief explanation of why (content tracking versus file
+  tracking)
+
+  - the index, which allows for local development
+
+  - supposed to ease the pain of merging... find out more about this
+
+  - 
+
+* for full understanding
+
+  - scott chacon's git presentation and slides
+
+  - git internals book (also by chacon) or pragprog's git book (read reviews on
+  the latter)
