@@ -22,7 +22,13 @@
 
   - supposed to ease the pain of merging... find out more about this
 
-  - 
+  - github: all of the ruby/rails/fun shit is happening there, and at an insane
+  pace (pjhyett: "It took RubyForge 1.5 years to serve 500 gems. GitHub did it
+  in less than 3 months. Apples to oranges, yes, but a fun fact nevertheless.")
+
+  - crazy power: changes can be undone, modified, history rewritten
+
+  - git-svn does not work with winders... and there goes my fire.
 
 * for full understanding
 
